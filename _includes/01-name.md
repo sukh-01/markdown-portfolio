@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+<h1> hi i am sukhpreet kaur</h1>
+<h2> welcome to blog <h2>
